@@ -86,4 +86,4 @@ Dive into the foundations of software development, uncover the limitless possibi
 #     RSS / Atom feed link is always rendered as the last item of social-links
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
-   hide_site_feed_link: false
+   hide_site_feed_link: true
