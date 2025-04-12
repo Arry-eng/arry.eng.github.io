@@ -1,13 +1,10 @@
-title: Your awesome title
+title: Welcome to Arry-eng page
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Arry-eng
+  email: gave-gala-zone@duck.com
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
+  Step into a world of exploration, beginning with the foundations of software development, design and architecture and its intricate systems. Journey further into the fascinating realm of electronics, uncovering its limitless possibilities. Look up to the stars as we delve into the mysteries of space and the cosmos. Traverse the globe with a passion for geography, uncovering the beauty of diverse landscapes. And finally, embrace the elegance of the Russian language, a window into a rich cultural tapestry. This site is a celebration of curiosity, creativity, and the boundless potential of interdisciplinary knowledge.
 theme: minima
 
 plugins:
@@ -27,7 +24,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: solarized-dark
 
   # Specific pages for site navigation.
   #   If you wish to link only specific pages in the site-navigation, use this and list
